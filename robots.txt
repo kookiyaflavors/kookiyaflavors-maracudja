@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /c/
+
+Sitemap: https://maracudja.kookiyaflavors.com/sitemap.xml
